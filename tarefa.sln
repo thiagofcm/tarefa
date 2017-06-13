@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarefa.CSharp", "tarefa.CSharp.csproj", "{B20B2B54-1BE3-0BA5-D53F-675B7459594F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarefa", "tarefa.csproj", "{32798586-C7AD-D064-C454-0012C7967CA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B20B2B54-1BE3-0BA5-D53F-675B7459594F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B20B2B54-1BE3-0BA5-D53F-675B7459594F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B20B2B54-1BE3-0BA5-D53F-675B7459594F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B20B2B54-1BE3-0BA5-D53F-675B7459594F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32798586-C7AD-D064-C454-0012C7967CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32798586-C7AD-D064-C454-0012C7967CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32798586-C7AD-D064-C454-0012C7967CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32798586-C7AD-D064-C454-0012C7967CA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
